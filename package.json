@@ -1,0 +1,42 @@
+{
+  "name": "Launcher.fs",
+  "description": "LauncherFs",
+  "version": "0.0.1",
+  "author": {
+    "name": "Eduardo Burgos",
+    "email": "eburgos@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eburgos/Launcher.fs"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  },
+  "bin": {
+
+  },
+  "component": {
+    "scripts": {}
+  },
+  "scripts": {
+    "nschema": "node ./node_modules/nineschema/bin/nschema ./nschema/schema.js"
+  },
+  "contributors": [
+    {
+      "name": "Eduardo Burgos",
+      "email": "eburgos@gmail.com",
+      "url": "http://www.eduardoburgos.com/"
+    }
+  ],
+  "readmeFilename": "README.md",
+  "keywords": [
+
+  ],
+  "license": "MIT",
+  "bugs": {
+  }
+}
